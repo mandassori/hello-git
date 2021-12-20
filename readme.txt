@@ -1,2 +1,2 @@
 just try
-just commit
+just commit.
