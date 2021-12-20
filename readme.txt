@@ -1,1 +1,1 @@
-just start
+just try
